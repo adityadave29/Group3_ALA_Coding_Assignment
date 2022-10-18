@@ -1,3 +1,4 @@
+#q1
 N = 4
 
 def getCofactor(A, temp, p, q, n):

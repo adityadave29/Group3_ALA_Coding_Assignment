@@ -1,3 +1,5 @@
+#q7
+
 A=[]
 R=int(input("enter the number of rows:"))
 C=int(input("enter the number of columns:"))

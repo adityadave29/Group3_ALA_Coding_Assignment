@@ -1,3 +1,4 @@
+#q2
 def mulMat(matrix1, matrix2, r1, r2, c1, c2):
 	answer = [[0, 0, 0, 0],
 			[0, 0, 0, 0],

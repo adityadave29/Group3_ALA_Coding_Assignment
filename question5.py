@@ -1,3 +1,5 @@
+#q5
+
 #function that will return the sum of the diagonal elements
 def printDiagonalSums(mat, n):
     principal = 0

@@ -1,3 +1,5 @@
+#q6
+
 from random import randint
 
 def displayMatrix(matrix):
